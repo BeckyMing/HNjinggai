@@ -18,4 +18,4 @@
 [========]
 
 我们的网站:
-[https://www.hnjinggai.com](https://www.hnjinggai.com)
+[https://www.hnjinggai.xyz](https://www.hnjinggai.xyz)
